@@ -1,0 +1,17 @@
+name: "VISDOM"
+navbar: 
+  title: "VISDOM"
+  left:
+    - text: "ホーム"
+      href: index.html
+    - text: "リンク"
+      href: link.html
+output:
+  html_document:
+    theme: cosmo
+    highlight: textmate
+    toc: true
+    toc_float:
+      collapse: false
+    df_print: "kable"
+output_dir: "docs"
