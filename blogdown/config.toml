@@ -1,0 +1,38 @@
+baseurl = "/"
+relativeurls = true
+publishDir = "../docs"
+hasCJKLanguage = true
+languageCode = "ja-jp"
+title = "VISDOM"
+theme = "hugo-lithium-theme"
+googleAnalytics = ""
+disqusShortname = ""
+ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
+
+[[menu.main]]
+    name = "About"
+    url = "/about/"
+[[menu.main]]
+    name = "GitHub"
+    url = "https://github.com/sugi2000/visdom"
+[[menu.main]]
+    name = "Twitter"
+    url = "https://twitter.com/visdomjp"
+
+[params]
+    description = "VISDOM: DataVis information website."
+
+    # options for highlight.js (version, additional languages, and theme)
+    highlightjsVersion = "9.9.0"
+    highlightjsLang = ["r", "yaml"]
+    highlightjsTheme = "github"
+
+    [params.logo]
+    url = "logo.png"
+    width = 50
+    height = 50
+    alt = "Logo"
+
