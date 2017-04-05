@@ -1,5 +1,5 @@
 name: "VISDOM"
-navbar: 
+navbar:
   title: "VISDOM"
   left:
     - text: "ホーム"
@@ -14,4 +14,4 @@ output:
     toc_float:
       collapse: false
     df_print: "kable"
-output_dir: "docs"
+output_dir: "../docs"
