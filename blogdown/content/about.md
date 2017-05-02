@@ -1,9 +1,19 @@
 ---
 title: "About"
-date: "2016-05-05T21:48:51-07:00"
+date: "2017-05-03"
 ---
 
-Test.
-Test.
+Visdomは、データ可視化のデザインにかんする日本語の情報サイトです。
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium-theme).
+```
+Visdom -- domain of visual topics
+```
+
+現在、試験運用中です。 書きかけの記事が多数ありますのでご容赦ください。
+
+管理人：杉本達應
+
+---
+
+<small>VISDOMは、Amazonアソシエイトプログラムに参加しています。</small>
+
