@@ -13,6 +13,10 @@ tags:
 
 (via richardbrath)
 
+表題のブログ記事をかいつまんで紹介します。
+
+---
+
 色でカテゴリー分類するのは、10色程度が限界です。[Colobrewer2](http://colorbrewer2.org/)で選べるのは最大12色。d3は[20色のカラースケールを3種](https://github.com/d3/d3-scale/blob/master/README.md#schemeCategory20)用意しています。
 
 折れ線グラフでは、線のスタイルで区別をつけることができますが、破線や点線はうまく機能しません。なぜならもっとも重要な角（かど）の部分がはっきり見えないことがあるからです。
