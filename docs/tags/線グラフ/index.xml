@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>線グラフ on VISDOM</title>
+    <link>/tags/%E7%B7%9A%E3%82%B0%E3%83%A9%E3%83%95/index.xml</link>
+    <description>Recent content in 線グラフ on VISDOM</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <atom:link href="/tags/%E7%B7%9A%E3%82%B0%E3%83%A9%E3%83%95/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>電話線コードを使った色分類</title>
+      <link>/2017/05/03/50-categoric-colors-inspired-by-telephone-wires/</link>
+      <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/05/03/50-categoric-colors-inspired-by-telephone-wires/</guid>
+      <description>
+
+&lt;p&gt;(via richardbrath)&lt;/p&gt;
+
+&lt;p&gt;色でカテゴリー分類するのは、10色程度が限界です。&lt;/p&gt;
+
+&lt;h3 id=&#34;リンク&#34;&gt;リンク&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://richardbrath.wordpress.com/2017/04/30/50-categoric-colors-inspired-by-telephone-wires/&#34;&gt;50 categoric colors, inspired by telephone wires | richardbrath&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

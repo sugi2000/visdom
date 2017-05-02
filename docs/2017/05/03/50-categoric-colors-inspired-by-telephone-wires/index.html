@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="ja-jp">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="generator" content="Hugo 0.19" />
+
+
+<title>電話線コードを使った色分類 - VISDOM</title>
+<meta property="og:title" content="電話線コードを使った色分類 - VISDOM">
+
+
+
+  
+
+
+
+
+
+
+
+<link rel="stylesheet" href="../../../../css/fonts.css" media="all">
+<link rel="stylesheet" href="../../../../css/main.css" media="all">
+
+
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav">
+  <a href="../../../../" class="nav-logo">
+    <img src="../../../../images/logo.png"
+         width="50"
+         height="50"
+         alt="Logo">
+  </a>
+
+  <ul class="nav-links">
+    
+    <li><a href="../../../../about/">About</a></li>
+    
+    <li><a href="https://github.com/sugi2000/visdom">GitHub</a></li>
+    
+    <li><a href="https://twitter.com/visdomjp">Twitter</a></li>
+    
+  </ul>
+</nav>
+
+      </header>
+
+
+<main class="content" role="main">
+
+  <article class="article">
+    
+    <span class="article-duration">2 min read</span>
+    
+
+    <h1 class="article-title">電話線コードを使った色分類</h1>
+
+    
+    <span class="article-date">2017/05/03</span>
+    
+
+    <div class="article-content">
+      
+
+<p>(via richardbrath)</p>
+
+<p>色でカテゴリー分類するのは、10色程度が限界です。<a href="http://colorbrewer2.org/">Colobrewer2</a>で選べるのは最大12色。d3は<a href="https://github.com/d3/d3-scale/blob/master/README.md#schemeCategory20">20色のカラースケールを3種</a>用意しています。</p>
+
+<p>折れ線グラフでは、線のスタイルで区別をつけることができますが、破線や点線はうまく機能しません。なぜならもっとも重要な角（かど）の部分がはっきり見えないことがあるからです。</p>
+
+<p>地図では、道路や線路などを、線のスタイル、グリフ（小さなシンボル）を使って区別しています。Excelでは、グリフを使った折れ線グラフを使っています。しかしグリフを多用するのも目障りで角（かど）の位置を正確に見つけられません。</p>
+
+<p>さて、筆者は電話線のカラーリングをヒントに線を2色で塗り分けることを提案しています。このチャートがランダムな折れ線グラフに、25種のペアカラーを適用したものです。</p>
+
+<p><a href="https://gyazo.com/ad524be7c51832f3cdf692b9640697c1"><img src="https://i.gyazo.com/ad524be7c51832f3cdf692b9640697c1.png" alt="https://gyazo.com/ad524be7c51832f3cdf692b9640697c1" /></a></p>
+
+<p>このチャートの利点は次の通り。</p>
+
+<ol>
+<li>折れ線の角（かど）がしっかり認識できる</li>
+<li>50本の線がひしめきあっていますが、全体的な傾向を把握することができる（ここでは下落傾向）。</li>
+<li>上下にあらわれる線を簡単に識別できる。</li>
+</ol>
+
+<p>もちろんこれが最終的な解決策ではありません。そもそも50本もの折れ線グラフをつくるべきではないかもしれません。</p>
+
+<hr />
+
+<p>わたしは必ずしもみやすいとは思えませんでしたが、読者のみなさんはいかがでしたか。</p>
+
+<h3 id="リンク">リンク</h3>
+
+<ul>
+<li><a href="https://richardbrath.wordpress.com/2017/04/30/50-categoric-colors-inspired-by-telephone-wires/">50 categoric colors, inspired by telephone wires | richardbrath</a></li>
+</ul>
+
+    </div>
+  </article>
+
+  
+
+
+</main>
+
+      <footer class="footer">
+        <ul class="footer-links">
+          <li>
+            <a href="../../../../index.xml" type="application/rss+xml" target="_blank">RSS feed</a>
+          </li>
+          <li>
+            <a href="https://gohugo.io/" class="footer-links-kudos">Made with <img src="../../../../images/hugo-logo.png" width="22" height="22"></a>
+          </li>
+        </ul>
+      </footer>
+
+    </div>
+    
+
+    
+
+    
+  </body>
+</html>
+
