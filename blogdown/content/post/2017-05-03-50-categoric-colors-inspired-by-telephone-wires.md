@@ -3,12 +3,11 @@ title: 電話線コードを使った色分類
 author: SUGIMOTO Tatsuo
 date: '2017-05-03'
 slug: 50-categoric-colors-inspired-by-telephone-wires
-categories:
-  - リンク
+categories: ['リンク']
 tags:
-  - d3
-  - 色
-  - 折れ線グラフ
+  - 'd3'
+  - '色'
+  - '折れ線グラフ'
 ---
 
 (via richardbrath)

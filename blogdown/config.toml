@@ -4,8 +4,9 @@ publishDir = "../docs"
 hasCJKLanguage = true
 languageCode = "ja-jp"
 title = "VISDOM"
+author = "SUGIMOTO Tatsuo"
 theme = "hugo-lithium-theme"
-googleAnalytics = ""
+googleAnalytics = "UA-83804663-1"
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
 
@@ -29,9 +30,17 @@ ignoreFiles = ["\\.Rmd$", "_files$", "_cache$"]
     highlightjsVersion = "9.9.0"
     highlightjsLang = ["r", "yaml", "js"]
     highlightjsTheme = "github"
-
+    
+    # logo = "images/logo.png"
+    copyright = "visdom"
+    twitter = "https://twitter.com/visdomjp"
+    facebook = "https://www.facebook.com/visdom.jp"
+    github = "https://github.com/sugi2000"
+    email = "sugi2000@gmail.com"
+    analytics = "UA-83804663-1"
+    
     [params.logo]
-    url = "logo.png"
+    url = "logo.jpg"
     width = 50
     height = 50
     alt = "Logo"
