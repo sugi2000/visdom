@@ -4,10 +4,7 @@ author: SUGIMOTO Tatsuo
 date: '2017-05-03'
 slug: 50-categoric-colors-inspired-by-telephone-wires
 categories: ['リンク']
-tags:
-  - 'd3'
-  - '色'
-  - '折れ線グラフ'
+tags: ['d3', '色', '折れ線グラフ']
 ---
 
 (via richardbrath)

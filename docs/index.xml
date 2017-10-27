@@ -2,13 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VISDOM</title>
-    <link>/index.xml</link>
+    <link>/</link>
     <description>Recent content on VISDOM</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>visdom</copyright>
     <lastBuildDate>Mon, 29 May 2017 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Google MapsとApple Mapsの経年変化</title>
@@ -16,12 +18,7 @@
       <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/05/29/google-maps-apple-maps/</guid>
-      <description>&lt;p&gt;大変詳細なGoogle Mapsの分析。Google Mapsはわずか1年でずいぶん進化しています。どうやってスナップショットを記録しているんでしょうね。&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.justinobeirne.com/a-year-of-google-maps-and-apple-maps&#34;&gt;A Year of Google Maps &amp;amp; Apple Maps&lt;/a&gt; by  Justin O’Beirne.&lt;/p&gt;
-&lt;/blockquote&gt;
-</description>
+      <description>大変詳細なGoogle Mapsの分析。Google Mapsはわずか1年でずいぶん進化しています。どうやってスナップショットを記録しているんで</description>
     </item>
     
     <item>
@@ -30,18 +27,7 @@
       <pubDate>Mon, 29 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/05/29/subway-maps/</guid>
-      <description>&lt;p&gt;地下鉄路線図と実際の位置関係をモーフィングしたGIFアニメーション。
-&lt;a href=&#34;https://www.reddit.com/r/dataisbeautiful/&#34;&gt;r/DataIsBeautiful&lt;/a&gt;で話題になっていました。
-路線図のようなものをつくるさいの参考になるかも。&lt;/p&gt;
-
-&lt;p&gt;&lt;iframe src=&#34;https://giphy.com/embed/3ohzdEf1NvEhMbdr0c&#34; width=&#34;480&#34; height=&#34;323&#34; frameBorder=&#34;0&#34; class=&#34;giphy-embed&#34; allowFullScreen&gt;&lt;/iframe&gt;&lt;p&gt;&lt;a href=&#34;https://giphy.com/gifs/3ohzdEf1NvEhMbdr0c&#34;&gt;via GIPHY&lt;/a&gt;&lt;/p&gt;&lt;/p&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;&lt;a href=&#34;http://twistedsifter.com/2017/05/subway-maps-compared-to-their-actual-geography/&#34;&gt;15 Subway Maps Compared to Their Actual Geography&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;div class=&#34;amazlet-box&#34; style=&#34;margin-bottom:0px;&#34;&gt;&lt;div class=&#34;amazlet-image&#34; style=&#34;float:left;margin:0px 12px 1px 0px;&#34;&gt;&lt;a href=&#34;http://www.amazon.co.jp/exec/obidos/ASIN/0143128493/515003-22/ref=nosim/&#34; name=&#34;amazletlink&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://images-fe.ssl-images-amazon.com/images/I/514TtNhdQhL._SL160_.jpg&#34; alt=&#34;Transit Maps of the World: Expanded and Updated Edition of the World&#39;s First Collection of Every Urban Train Map on Earth&#34; style=&#34;border: none;&#34; /&gt;&lt;/a&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-info&#34; style=&#34;line-height:120%; margin-bottom: 10px&#34;&gt;&lt;div class=&#34;amazlet-name&#34; style=&#34;margin-bottom:10px;line-height:120%&#34;&gt;&lt;a href=&#34;http://www.amazon.co.jp/exec/obidos/ASIN/0143128493/515003-22/ref=nosim/&#34; name=&#34;amazletlink&#34; target=&#34;_blank&#34;&gt;Transit Maps of the World: Expanded and Updated Edition of the World&#39;s First Collection of Every Urban Train Map on Earth&lt;/a&gt;&lt;div class=&#34;amazlet-powered-date&#34; style=&#34;font-size:80%;margin-top:5px;line-height:120%&#34;&gt;posted with &lt;a href=&#34;http://www.amazlet.com/&#34; title=&#34;amazlet&#34; target=&#34;_blank&#34;&gt;amazlet&lt;/a&gt; at 17.05.29&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-detail&#34;&gt;Mark Ovenden &lt;br /&gt;Penguin Books &lt;br /&gt;売り上げランキング: 26,251&lt;br /&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-sub-info&#34; style=&#34;float: left;&#34;&gt;&lt;div class=&#34;amazlet-link&#34; style=&#34;margin-top: 5px&#34;&gt;&lt;a href=&#34;http://www.amazon.co.jp/exec/obidos/ASIN/0143128493/515003-22/ref=nosim/&#34; name=&#34;amazletlink&#34; target=&#34;_blank&#34;&gt;Amazon.co.jpで詳細を見る&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&#34;amazlet-footer&#34; style=&#34;clear: left&#34;&gt;&lt;/div&gt;&lt;/div&gt;
-</description>
+      <description>地下鉄路線図と実際の位置関係をモーフィングしたGIFアニメーション。 r/DataIsBeautifulで話題になっていました。 路線図のような</description>
     </item>
     
     <item>
@@ -50,19 +36,7 @@
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/about/</guid>
-      <description>&lt;p&gt;Visdomは、データ可視化のデザインにかんする日本語の情報サイトです。&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;Visdom -- domain of visual topics
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;現在、試験運用中です。&lt;/p&gt;
-
-&lt;p&gt;管理人：杉本達應&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;small&gt;VISDOMは、Amazonアソシエイトプログラムに参加しています。&lt;/small&gt;&lt;/p&gt;
-</description>
+      <description>Visdomは、データ可視化のデザインにかんする日本語の情報サイトです。 Visdom -- domain of visual topics 現在、試験運用中です。 管理人：杉本達應 VISDOMは、A</description>
     </item>
     
     <item>
@@ -71,44 +45,16 @@
       <pubDate>Wed, 03 May 2017 00:00:00 +0000</pubDate>
       
       <guid>/2017/05/03/50-categoric-colors-inspired-by-telephone-wires/</guid>
-      <description>
-
-&lt;p&gt;(via richardbrath)&lt;/p&gt;
-
-&lt;p&gt;表題のブログ記事をかいつまんで紹介します。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;色でカテゴリー分類するのは、10色程度が限界です。&lt;a href=&#34;http://colorbrewer2.org/&#34;&gt;Colobrewer2&lt;/a&gt;で選べるのは最大12色。d3は&lt;a href=&#34;https://github.com/d3/d3-scale/blob/master/README.md#schemeCategory20&#34;&gt;20色のカラースケールを3種&lt;/a&gt;用意しています。&lt;/p&gt;
-
-&lt;p&gt;折れ線グラフでは、線のスタイルで区別をつけることができますが、破線や点線はうまく機能しません。なぜならもっとも重要な角（かど）の部分がはっきり見えないことがあるからです。&lt;/p&gt;
-
-&lt;p&gt;地図では、道路や線路などを、線のスタイル、グリフ（小さなシンボル）を使って区別しています。Excelでは、グリフを使った折れ線グラフを使っています。しかしグリフを多用するのも目障りで角（かど）の位置を正確に見つけられません。&lt;/p&gt;
-
-&lt;p&gt;さて、筆者は電話線のカラーリングをヒントに線を2色で塗り分けることを提案しています。このチャートがランダムな折れ線グラフに、25種のペアカラーを適用したものです。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://gyazo.com/ad524be7c51832f3cdf692b9640697c1&#34;&gt;&lt;img src=&#34;https://i.gyazo.com/ad524be7c51832f3cdf692b9640697c1.png&#34; alt=&#34;https://gyazo.com/ad524be7c51832f3cdf692b9640697c1&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;このチャートの利点は次の通り。&lt;/p&gt;
-
-&lt;ol&gt;
-&lt;li&gt;折れ線の角（かど）がしっかり認識できる&lt;/li&gt;
-&lt;li&gt;50本の線がひしめきあっていますが、全体的な傾向を把握することができる（ここでは下落傾向）。&lt;/li&gt;
-&lt;li&gt;上下にあらわれる線を簡単に識別できる。&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;もちろんこれが最終的な解決策ではありません。そもそも50本もの折れ線グラフをつくるべきではないかもしれません。&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;わたしは必ずしもみやすいとは思えませんでしたが、読者のみなさんはいかがでしたか。&lt;/p&gt;
-
-&lt;h3 id=&#34;リンク&#34;&gt;リンク&lt;/h3&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://richardbrath.wordpress.com/2017/04/30/50-categoric-colors-inspired-by-telephone-wires/&#34;&gt;50 categoric colors, inspired by telephone wires | richardbrath&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <description>(via richardbrath) 表題のブログ記事をかいつまんで紹介します。 色でカテゴリー分類するのは、10色程度が限界です。Colobrewer2で選べるのは最大12色</description>
+    </item>
+    
+    <item>
+      <title>記事消失</title>
+      <link>/2016/10/07/deleted-articles/</link>
+      <pubDate>Fri, 07 Oct 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/2016/10/07/deleted-articles/</guid>
+      <description>1か月ほど書いていた記事がすべて消えてしまいました。 いくつかデータ救出できたものだけ復活。 バックアップ大切、バックアップ大切、バックアップ大</description>
     </item>
     
   </channel>
